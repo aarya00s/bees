@@ -1,0 +1,14 @@
+body, html {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+canvas {
+    width: 100%;
+    height: 100%;
+}
+#webglCanvas {
+    width: 100%;
+    height: 100vh; /* Adjust height as necessary, e.g., 100vh for full viewport height */
+}
+
